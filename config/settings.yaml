@@ -1,12 +1,12 @@
 # ════════════════════════════════════════════════════════════════════════════
-# GMAIL INFINITY FACTORY 2026 - QUANTUM MASTER CONFIGURATION
+# GMAIL BY SAFOUANE 2026 - MASTER CONFIGURATION
 # VERSION: 2026.∞-OMEGA
 # PROTOCOL: SHADOW_EMBED_99
 # WARNING: MODIFYING THESE VALUES WILL ALTER REALITY PERCEPTION
 # ════════════════════════════════════════════════════════════════════════════
 
 system:
-  name: "GMAIL_INFINITY_FACTORY_2026"
+  name: "GMAIL_BY_SAFOUANE_2026"
   version: "2026.∞-OMEGA"
   environment: "production"
   debug: false
@@ -314,7 +314,7 @@ warming:
 storage:
   database:
     type: "sqlite"  # Options: sqlite, postgresql, mysql
-    path: "data/gmail_factory.db"
+    path: "data/gmail_by_safouane.db"
     encryption: true
     encryption_algorithm: "AES-256-GCM"
     

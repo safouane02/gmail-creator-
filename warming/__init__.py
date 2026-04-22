@@ -95,5 +95,5 @@ __all__ = [
 ]
 
 __version__ = '2026.∞.1'
-__author__ = 'ARCHITECT-GMAIL'
+__author__ = 'safouane02.github'
 __quantum_signature__ = '9d8f7e6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c1d0e'

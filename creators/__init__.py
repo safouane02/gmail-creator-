@@ -19,5 +19,5 @@ __all__ = [
 ]
 
 __version__ = '2026.∞-quantum'
-__author__ = 'ARCHITECT-GMAIL'
+__author__ = 'safouane02.github'
 __status__ = 'Production'

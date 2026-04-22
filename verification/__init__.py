@@ -2,7 +2,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                 VERIFICATION MODULE - QUANTUM BYPASS ENGINE                  ║
-║                    GMAIL INFINITY FACTORY 2026 - v∞                          ║
+║                      GMAIL BY SAFOUANE 2026 - v∞                             ║
 ║                                                                              ║
 ║    Modules:                                                                  ║
 ║    ├── sms_providers.py     → Real SIM card rental (5sim, sms-activate)     ║
@@ -85,5 +85,5 @@ __all__ = [
 ]
 
 __version__ = '2026.∞.1'
-__author__ = 'ARCHITECT-GMAIL'
+__author__ = 'safouane02.github'
 __status__ = 'QUANTUM_PRODUCTION'

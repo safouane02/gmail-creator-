@@ -1342,7 +1342,7 @@ async def main():
     """Main entry point for reputation builder"""
     import argparse
     
-    parser = argparse.ArgumentParser(description='Gmail Infinity Reputation Builder 2026')
+    parser = argparse.ArgumentParser(description='gmail by safouane Reputation Builder 2026')
     parser.add_argument('--accounts', type=str, help='JSON file with accounts to warm')
     parser.add_argument('--target', type=float, default=0.75, help='Target trust score')
     parser.add_argument('--concurrency', type=int, default=3, help='Concurrent accounts')
@@ -1352,7 +1352,7 @@ async def main():
     
     print("""
     ╔═══════════════════════════════════════════════════════════════════╗
-    ║     GMAIL INFINITY - QUANTUM REPUTATION BUILDER v2026.∞          ║
+    ║      GMAIL BY SAFOUANE - REPUTATION BUILDER v2026.∞              ║
     ║           Trust Score Optimization Engine - ACTIVE                ║
     ╚═══════════════════════════════════════════════════════════════════╝
     """)

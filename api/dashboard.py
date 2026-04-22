@@ -31,14 +31,14 @@ import psutil
 # ============================================================================
 
 st.set_page_config(
-    page_title="GMAIL INFINITY FACTORY - QUANTUM DASHBOARD",
+    page_title="GMAIL BY SAFOUANE - DASHBOARD",
     page_icon="🔥",
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
-        'Get Help': 'https://github.com/quantum-gmail-factory/docs',
-        'Report a bug': 'https://github.com/quantum-gmail-factory/issues',
-        'About': '# GMAIL INFINITY FACTORY 2026\n## Quantum Email Creation System'
+        'Get Help': 'https://github.com/safouane02',
+        'Report a bug': 'https://github.com/safouane02',
+        'About': '# GMAIL BY SAFOUANE\n## Created by safouane02.github'
     }
 )
 
@@ -349,7 +349,7 @@ def render_sidebar():
 
 def render_dashboard():
     """Main dashboard view"""
-    st.markdown("# 🚀 GMAIL INFINITY FACTORY - QUANTUM DASHBOARD")
+    st.markdown("# 🚀 GMAIL BY SAFOUANE - DASHBOARD")
     st.markdown("### Real-time Creation Monitoring & Control")
     
     # Refresh button and auto-refresh
@@ -1024,7 +1024,7 @@ def render_settings():
 def render_documentation():
     """API documentation"""
     st.markdown("# 📚 API Documentation")
-    st.markdown("### Quantum Gmail Factory REST API")
+    st.markdown("### gmail by safouane REST API")
     
     st.markdown("""
     ## Authentication

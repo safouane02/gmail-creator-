@@ -58,7 +58,7 @@ CELERY_BACKEND_URL = "redis://localhost:6379/2"
 
 # Initialize Celery app
 celery_app = Celery(
-    "gmail_factory",
+    "gmail_by_safouane",
     broker=CELERY_BROKER_URL,
     backend=CELERY_BACKEND_URL,
     include=["api.rest_server"]
@@ -120,7 +120,7 @@ redis_client = RedisClient()
 async def lifespan(app: FastAPI):
     """Manage application startup and shutdown"""
     # Startup
-    logger.info("🚀 GMAIL INFINITY FACTORY API - STARTING UP")
+    logger.info("🚀 GMAIL BY SAFOUANE API - STARTING UP")
     logger.info(f"🔥 Quantum Core v{API_VERSION}")
     logger.info(f"💀 System: {platform.system()} {platform.release()}")
     logger.info(f"⚡ CPU Cores: {psutil.cpu_count()}")
@@ -152,7 +152,7 @@ async def lifespan(app: FastAPI):
     yield
     
     # Shutdown
-    logger.info("🛑 GMAIL INFINITY FACTORY API - SHUTTING DOWN")
+    logger.info("🛑 GMAIL BY SAFOUANE API - SHUTTING DOWN")
     await redis_client.close()
     logger.info("✅ Clean shutdown complete")
 
@@ -1069,7 +1069,7 @@ def start_api_server(host: str = "0.0.0.0", port: int = 8000, reload: bool = Fal
         port: Bind port (default: 8000)
         reload: Auto-reload on code changes (default: False)
     """
-    logger.info(f"🔥 Starting Gmail Infinity Factory API server on {host}:{port}")
+    logger.info(f"🔥 Starting gmail by safouane API server on {host}:{port}")
     logger.info(f"📚 Documentation available at http://{host}:{port}/api/docs")
     logger.info(f"🔧 Debug mode: {'enabled' if reload else 'disabled'}")
     

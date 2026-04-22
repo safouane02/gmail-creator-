@@ -2,7 +2,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                    IDENTITY MODULE - QUANTUM PERSONA FORGE                    ║
-║                      GMAIL INFINITY FACTORY 2026 v∞                          ║
+║                         GMAIL BY SAFOUANE 2026 v∞                            ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 This module synthesizes complete human identities with 99.97% realism score.
@@ -15,7 +15,7 @@ from .photo_generator import PhotoGenerator, PhotoStyle, Ethnicity, AgeRange
 from .bio_generator import BioGenerator, WritingStyle, Tone, BioLength
 
 __version__ = "2026.∞"
-__author__ = "ARCHITECT-GMAIL"
+__author__ = "safouane02.github"
 __status__ = "QUANTUM_PRODUCTION"
 
 __all__ = [

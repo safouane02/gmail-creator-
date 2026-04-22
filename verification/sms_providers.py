@@ -2,7 +2,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                    SMS_PROVIDERS.PY - REAL SIM CARD RENTAL                   ║
-║                        GMAIL INFINITY FACTORY 2026                           ║
+║                          GMAIL BY SAFOUANE 2026                              ║
 ║                                                                              ║
 ║    ⚠️  NOT VOIP - REAL PHYSICAL SIM CARDS FROM 60+ COUNTRIES ⚠️              ║
 ║    Integrated Providers:                                                     ║

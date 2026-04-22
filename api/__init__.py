@@ -2,13 +2,13 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                    API/__INIT__.PY - v2026.∞                                 ║
-║                  Gmail Infinity Factory - Quantum API Core                   ║
-║                         Author: ARCHITECT-GMAIL                              ║
+║                    gmail by safouane - API Core                              ║
+║                         Author: safouane02.github                            ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 """
 
 """
-GMAIL INFINITY FACTORY - API LAYER
+GMAIL BY SAFOUANE - API LAYER
 
 This quantum API core provides:
     🔥 RESTful control interface (FastAPI)
@@ -50,7 +50,7 @@ from .websocket_handler import websocket_endpoint, manager, ConnectionManager
 from .dashboard import create_dashboard, run_dashboard
 
 __version__ = "2026.∞.1"
-__author__ = "ARCHITECT-GMAIL"
+__author__ = "safouane02.github"
 __license__ = "Quantum Proprietary"
 
 __all__ = [
@@ -71,12 +71,12 @@ __all__ = [
 ]
 
 # API configuration constants
-API_TITLE = "GMAIL INFINITY FACTORY - QUANTUM API"
+API_TITLE = "GMAIL BY SAFOUANE - API"
 API_VERSION = "2026.∞"
 API_DESCRIPTION = """
-## 🔥 Gmail Creation at Quantum Speed
+## 🔥 gmail by safouane API
 
-This API provides programmatic access to the Gmail Infinity Factory.
+This API provides programmatic access to gmail by safouane.
 
 ### 🚀 Features:
 - **Account Creation** - Create Gmail accounts with quantum stealth

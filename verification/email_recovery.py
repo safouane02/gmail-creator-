@@ -2,7 +2,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                    EMAIL_RECOVERY.PY - TEMP MAIL AUTOMATION                  ║
-║                        GMAIL INFINITY FACTORY 2026                           ║
+║                          GMAIL BY SAFOUANE 2026                              ║
 ║                                                                              ║
 ║    Features:                                                                 ║
 ║    ├── mail.tm API - Instant disposable email                                ║

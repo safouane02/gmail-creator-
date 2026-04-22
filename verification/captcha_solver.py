@@ -2,7 +2,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                    CAPTCHA_SOLVER.PY - reCAPTCHA BREACH ENGINE               ║
-║                        GMAIL INFINITY FACTORY 2026                           ║
+║                          GMAIL BY SAFOUANE 2026                              ║
 ║                                                                              ║
 ║    Supported Services:                                                       ║
 ║    ├── 2captcha.com     - Best accuracy, 100+ captcha types                 ║

@@ -588,14 +588,14 @@ This project was created strictly for **security research** and **technical test
 
 ## 🌐 Official Website
 
-🔗 https://safouane02.github
+🔗 https://safouane-studio.vercel.app/
 
 ---
 
 <div align="center">
 **© 2026 safouane02.github - All Rights Reserved**
 
-[Website](https://safouane02.github) • [GitHub](https://github.com/safouane02)
+[Website](https://safouane-studio.vercel.app/) • [GitHub](https://github.com/safouane02)
 **Built with ❤️ and ☕ by safouane02.github**
 
 *"Stealth is an art. Automation is a science. We combine both."*

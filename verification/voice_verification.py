@@ -2,7 +2,7 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                  VOICE_VERIFICATION.PY - AI VOICE CALL HANDLING              ║
-║                        GMAIL INFINITY FACTORY 2026                           ║
+║                          GMAIL BY SAFOUANE 2026                              ║
 ║                                                                              ║
 ║    Advanced Phone Verification Bypass via AI Voice:                          ║
 ║    ├── ElevenLabs Voice Cloning - Realistic human voice                      ║
